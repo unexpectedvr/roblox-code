@@ -2,7 +2,7 @@
 
 print("Loading...")
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Xenon Hub Cracked";
+    Title = "UnexpectedVR Hub ";
     Text = "Loading...",
     Duration = 5
 }) 
